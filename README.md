@@ -5,7 +5,7 @@ Tomcat application that shows the use of RDS in a Java EE web application in AWS
 Install the Java 8 JDK. The java compiler is required to run the build script.
 If you would like to run the web app locally, install Tomcat 8 and Postgresql 9.4.
 
-You can deploy the ROOT.war archive that build.sh generates to an AWS Elastic Beanstalk web server environment running the Tomcat 8 platform.
+You can deploy the ROOT.war archive that build.sh generates to an AWS Elastic Beanstalk web server environment running the Tomcat 8 platform..
 
 ### To download, build and deploy the project
 Clone the project (SSH):
